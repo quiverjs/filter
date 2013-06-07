@@ -6,10 +6,14 @@
   },
   "name": "quiver-filter",
   "desription": "Utility function for composing filters and handlers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/quiverjs/filter",
   "repository": {
     "url": "git@github.com:quiverjs/filter.git"
+  },
+  "dependencies": {
+    "quiver-copy": ">=0.0.1",
+    "quiver-safe-callback": ">=0.0.3"
   },
   "bugs": {
     "url": "https://github.com/quiverjs/filter/issues",
