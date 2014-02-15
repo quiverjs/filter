@@ -6,7 +6,7 @@
   },
   "name": "quiver-filter",
   "desription": "Compose filters and create custom filters",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/quiverjs/filter",
   "repository": {
     "url": "git@github.com:quiverjs/filter.git"
