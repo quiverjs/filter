@@ -6,7 +6,7 @@
   },
   "name": "quiver-filter",
   "desription": "Compose filters and create custom filters",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/quiverjs/filter",
   "repository": {
     "url": "git@github.com:quiverjs/filter.git"
@@ -14,8 +14,8 @@
   "dependencies": {
     "quiver-copy": "~0.1.4",
     "quiver-error": "~0.1.0",
-    "quiver-config": "~0.0.1",
-    "quiver-stream-convert": "~0.0.8",
+    "quiver-config": "0.0.6",
+    "quiver-stream-convert": "0.0.11",
     "quiver-stream-channel": "~0.0.11"
   },
   "devDependencies": {
